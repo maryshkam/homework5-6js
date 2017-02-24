@@ -13,7 +13,7 @@ function on() {
 		start.innerHTML = 'Pause';
 	} else {
 		condition = 0;
-		start.innerHTML = 'Ruseme';
+		start.innerHTML = 'Resume';
 	}
 }
 
